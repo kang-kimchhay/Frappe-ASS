@@ -172,4 +172,4 @@ user_data_fields = [
 # auth_hooks = [
 # 	"hotel_management.auth.validate"
 # ]
-
+fixtures = ["Property Setter","Client Script","Server Script","Custom Field"]

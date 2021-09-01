@@ -1,0 +1,50 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2021-08-30 14:37:01.441273",
+ "developer_mode_only": 0,
+ "disable_user_customization": 1,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Hotel Management",
+ "links": [],
+ "modified": "2021-09-01 10:13:44.562933",
+ "modified_by": "Administrator",
+ "module": "Hotel Management",
+ "name": "Hotel Management",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Rooms",
+   "link_to": "Hotel Room",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Booking",
+   "link_to": "Hotel Booking",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Customers",
+   "link_to": "Hotel Customer",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Room Category",
+   "link_to": "Hotel Room Category",
+   "type": "DocType"
+  }
+ ],
+ "shortcuts_label": "Hotel Management"
+}
